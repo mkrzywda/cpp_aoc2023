@@ -1,7 +1,7 @@
-# README for Advent of Code 2023 - Day 01
+#Advent of Code 2023
 
 ## Overview
-This repository contains C++ solutions for Advent of Code 2023 - Day 01 challenges. To run the code and test the solutions, follow the instructions below.
+This repository contains C++ solutions for Advent of Code 2023 - all Days challenges. To run the code and test the solutions, follow the instructions below.
 
 ## Prerequisites
 Make sure you have the following installed on your system:
